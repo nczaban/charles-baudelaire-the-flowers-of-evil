@@ -28,6 +28,16 @@ p span.i1{
 	padding-left: 2em;
 }
 
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
+p span.i7{
+	text-indent: -1em;
+	padding-left: 8em;
+}
+
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
